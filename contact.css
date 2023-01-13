@@ -1,0 +1,44 @@
+body{
+    color: white;
+    background-color: rgb(0, 65, 82);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    text-align:center;
+}
+
+h1{
+    color: greenyellow;
+    text-align:center;
+    margin-top: 10px;
+}
+
+header h1{
+    color: white;
+        text-align:center;
+}
+
+h2{
+    color: white;
+    text-align:center;
+}
+
+img {
+    width: 350px;
+    height: 600px;
+    border: 8px solid greenyellow;
+    object-fit: cover;
+    margin:;
+    text-align:left;
+}
